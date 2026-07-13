@@ -3,5 +3,10 @@
     "username": "NEXORA1",
     "key": "NEXORA2",
     "access": true
+  },
+  {
+    "username": "NEXORA2",
+    "key": "NEXORA3",
+    "access": true
   }
 ]
